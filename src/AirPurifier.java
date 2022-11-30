@@ -29,7 +29,6 @@ public class AirPurifier {
             this.filter = _filter;
         }
     }
-
     AirPurifier(){
         this("-","-","off",0,0,0);
     }
